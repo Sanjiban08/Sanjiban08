@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Sanjiban08" target="blank">
 Sanjiban</a></h1>
-<h3 align="center">A Passionate Game Developer from Siliguri,India &#127470;&#127475</h3>
+<h3 align="center">A Passionate Front End and Game Developer from West Bengal,India &#127470;&#127475</h3>
 
 
 
@@ -16,14 +16,13 @@ Sanjiban</a></h1>
   <img align="right" top="200" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Working on Game Development Projects
-- 🌱 I’m currently learning C# and Unity
+- 🔭 I’m currently Working on Front End and gaming Projects
+- 🌱 I’m currently learning React, Unity and Blender
 - 👯 I’m looking to collaborate with other developers and designers 
 - ⚡ I am also an active listener. 
-- 🌱 I’m currently doing 100 Days Of Code Challenge <a href="https://github.com/Sanjiban08/100DaysChallange" target="blank">100DaysOfCodeChallenge</a>
 
 
-- 💬 Ask me about **Game Development and C++**
+- 💬 Ask me about ** React **
 
 - 📫 How to reach me **sanjibandeey584@gmail.com** or **https://www.linkedin.com/in/sanjiban-dey-a09563251/**
 
