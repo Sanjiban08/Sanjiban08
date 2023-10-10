@@ -5,7 +5,7 @@ Sanjiiban08 is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Sanjiban08" target="blank">
-Sanjiban</a></h1>
+Sanjiban Dey</a></h1>
 <h3 align="center">A Passionate Data Analyst, Software Tester from India &#127470;&#127475</h3>
 
 
