@@ -22,7 +22,7 @@ Sanjiban Dey</a></h1>
 - ⚡ I am also an active listener. 
 
 
-- 💬 Ask me about ** Data Visualization **
+- 💬 Ask me about ** Data Visualization & MySQL **
 
 - 📫 How to reach me **sanjibandeey584@gmail.com** or **https://www.linkedin.com/in/sanjiban-dey-a09563251/**
 
