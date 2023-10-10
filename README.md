@@ -16,9 +16,9 @@ Sanjiban</a></h1>
   <img align="right" top="200" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Working on Front End and gaming Projects
-- 🌱 I’m currently learning React, Unity and Blender
-- 👯 I’m looking to collaborate with other developers and designers 
+- 🔭 I’m currently Working on Data Analyst Projects
+- 🌱 I’m currently learning Tableu, PowerBi, Selenium
+- 👯 I’m looking to collaborate with other analysts
 - ⚡ I am also an active listener. 
 
 
