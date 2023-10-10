@@ -44,8 +44,6 @@ Sanjiban Dey</a></h1>
 </p>
 <h3 align="center">📈 My Github Stats</h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sanjiban08&show_icons=true&theme=gotham" alt="Sanjiban08" />
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjiban08" alt="Sanjiban08" /></p>
 ---
 
 Credit: [Sanjiban Dey](https://github.com/Sanjiban08)
