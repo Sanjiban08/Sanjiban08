@@ -42,10 +42,7 @@ Sanjiban Dey</a></h1>
       </div>
 
 </p>
-<h3 align="center">📈 My Github Stats</h3>
-
----
 
 Credit: [Sanjiban Dey](https://github.com/Sanjiban08)
 
-Last Edited on: 09/10/2022
+Last Edited on: 10/10/2023
