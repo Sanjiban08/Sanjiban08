@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Sanjiban08" target="blank">
 Sanjiban Dey</a></h1>
-<h3 align="center">Passionate Data Analyst & Software Tester from India &#127470;&#127475;</h3>
+<h3 align="center">Passionate Data Analyst &#127470;&#127475;</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="200" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
