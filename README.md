@@ -11,7 +11,7 @@ Sanjiban Dey</a></h1>
 </a>
 
 - 🔭 I’m currently Working on Data Analyst Projects
-- 🌱 I’m currently learning Tableau, Power BI, Selenium
+- 🌱 I’m profficient in Power BI and Tableau
 - 👯 I’m looking to collaborate with other analysts
 - ⚡ I am also an active listener.
 
